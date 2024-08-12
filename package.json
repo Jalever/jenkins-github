@@ -1,6 +1,6 @@
 {
-  "name": "ts-vue-webpack-template-2",
-  "version": "1.2.1",
+  "name": "jenkins-github",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
