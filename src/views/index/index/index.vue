@@ -42,7 +42,7 @@ async function retrieve() {
 <template>
   <div class="index-wrapper">
     <div class="title">index页面</div>
-    <button class="button" @click="goToHome">前往Mine页面</button>
+    <button class="button" @click="goToHome">前往Mine页面[2109]</button>
 
     <div style="padding: 10px; border: 1px solid #ff0000">
       <button @click="assign">对commonStore赋值</button>
