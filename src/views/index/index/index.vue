@@ -70,7 +70,7 @@ async function retrieve() {
 <style lang="less" scoped>
 .index-wrapper {
   .title {
-    color: #00ffff;
+    color: #ff0000;
   }
 
   .button {
