@@ -80,7 +80,7 @@ async function retrieve() {
   .square {
     width: 200px;
     height: 200px;
-    background-color: #00ff00;
+    background-color: blue;
   }
 }
 </style>
