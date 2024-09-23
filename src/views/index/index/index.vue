@@ -51,7 +51,7 @@ async function retrieve() {
 
     <div style="padding: 10px; border: 1px solid #ff0000">
       <van-button type="primary" class="button" @click="goToHome"
-        >前往Mine - 3页面</van-button
+        >前往Mine - 4页面</van-button
       >
 
       <van-button @click="invokeToast">showToast</van-button>
